@@ -1,0 +1,35 @@
+
+  3 cisco_dev1 = {'device_type': 'cisco_ios',
+  4               'ip': '184.105.247.70',
+  5               'username': 'pyclass',
+  6               'password': '88newclass'}
+  7
+  8 cisco_dev2 = {'device_type': 'cisco_ios',
+  9               'ip': '184.105.247.71',
+ 10               'username': 'pyclass',
+ 11               'password': '88newclass'}
+ 12
+ 13 arista_dev1 = {'device_type': 'arista_eos',
+ 14               'ip': '184.105.247.72',
+ 15               'username': 'admin1',
+ 16               'password': '99saturday'}
+ 17
+ 18 arista_dev2 = {'device_type': 'arista_eos',
+ 19               'ip': '184.105.247.73',
+ 20               'username': 'admin1',
+ 21               'password': '99saturday'}
+ 22
+ 23 arista_dev3 = {'device_type': 'arista_eos',
+ 24               'ip': '184.105.247.74',
+ 25               'username': 'admin1',
+ 26               'password': '99saturday'}
+ 27
+ 28 arista_dev4 = {'device_type': 'arista_eos',
+ 29               'ip': '184.105.247.75',
+ 30               'username': 'admin1',
+ 31               'password': '99saturday'}
+ 32
+ 33 juniper_dev1 = {'device_type': 'juniper_junos',
+ 34               'ip': '184.105.247.76',
+ 35               'username': 'pyclass',
+ 36               'password': '88newclass'}
